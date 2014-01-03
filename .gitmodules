@@ -1,0 +1,3 @@
+[submodule "jmeter-bootstrap"]
+	path = jmeter-bootstrap
+	url = git@github.com:marcesher/jmeter-bootstrap.git
