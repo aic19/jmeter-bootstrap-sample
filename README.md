@@ -11,6 +11,6 @@ git submodule update
 Once jmeter-bootstrap is installed as a submodule, install JMeter and JMeter plugins into your project directory:
 
 ```
-python jmeter-bootstrap/bin/install_jmeter.py
+python jmeter-bootstrap/bin/JMeterInstaller.py
 ```
 
